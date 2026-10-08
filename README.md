@@ -23,6 +23,8 @@ https://bio-love-kittens.netlify.app/
 
 https://guns.lol/f4ceitbro
 
+https://tryhackme.com/p/SSerega777
+
 # Me in icons:
 
 [![My Skills](https://skillicons.dev/icons?i=arch,bash,cpp,discord,kali,npm,py,stackoverflow,vscode,css,html,js,git)](https://skillicons.dev)

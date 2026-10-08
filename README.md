@@ -3,7 +3,7 @@
 
 O_o
 
-14 y.o. // Roman // 2nd rank in competitive programming // English - C1 // learning Deutsh
+Roman // 2nd rank in competitive programming // English - C1 // learning Deutsh
 
 cybersecurity // linux // python // c++ // css // html // js
 

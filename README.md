@@ -3,7 +3,7 @@
 
 O_o
 
-14 y.o. // Roman // Second-class athlete ranking in algorithmic programming // English - C1 // learning deutsh
+14 y.o. // Roman // Second-class athlete ranking in algorithmic programming // English - C1 // learning Deutsh
 
 cybersecurity // linux // python // c++ // css // html // js
 

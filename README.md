@@ -5,8 +5,8 @@ O_o
 
 14 y.o. // Roman // Second-class athlete ranking in algorithmic programming // English - C1 // learning deutsh
 
-cybersecurity // linux // python // c++ 
+cybersecurity // linux // python // c++ // css // html // js
 
 Me in icons:
 
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,cpp,discord,kali,npm,py,stackoverflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,bash,cpp,discord,kali,npm,py,stackoverflow,vscode,css,html,js,git)](https://skillicons.dev)

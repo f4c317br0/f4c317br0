@@ -11,11 +11,11 @@ Love cats <3
 
 # Skills
 
-linux // css // html // js // c++ // python // git // npm // bash // cybersecurity
+linux // css // html // js // c++ // python // git // npm // bash // cybersecurity // CTF
 
 # What I'm working on
 
-Differrent projects on python // physics // linear algebry
+Differrent projects on python // physics // linear algebry // CTF // cybersecurity
 
 # Links
 

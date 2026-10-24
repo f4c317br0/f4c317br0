@@ -29,4 +29,4 @@ https://learn.cylabacademy.org/users/curtbitcoin
 
 # Me in icons:
 
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,cpp,discord,kali,npm,py,stackoverflow,vscode,css,html,js,java,c,git,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,cpp,discord,kali,npm,py,stackoverflow,vscode,css,html,js,java,c,git,sql)](https://skillicons.dev)

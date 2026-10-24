@@ -11,7 +11,7 @@ Love cats <3
 
 # Skills
 
-linux // css // html // js // c++ // c // python // java // git // npm // bash // cybersecurity // CTF
+linux // css // html // js // c++ // c // python // java // sql // git // npm // bash // cybersecurity // CTF
 
 # What I'm working on
 
@@ -29,4 +29,4 @@ https://learn.cylabacademy.org/users/curtbitcoin
 
 # Me in icons:
 
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,cpp,discord,kali,npm,py,stackoverflow,vscode,css,html,js,java,c,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,bash,cpp,discord,kali,npm,py,stackoverflow,vscode,css,html,js,java,c,git, sql)](https://skillicons.dev)

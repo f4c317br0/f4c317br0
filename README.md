@@ -27,6 +27,8 @@ https://tryhackme.com/p/SSerega777
 
 https://learn.cylabacademy.org/users/curtbitcoin
 
+https://dev.to/f4c317br0
+
 # Me in icons:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,cpp,discord,kali,npm,py,stackoverflow,vscode,css,html,js,java,c,git,mysql)](https://skillicons.dev)

@@ -21,15 +21,15 @@ Differrent projects on python // physics // linear algebry // CTF // cybersecuri
 
 ## Links
 
-https://bio-love-kittens.netlify.app/
+1. https://bio-love-kittens.netlify.app/
 
-https://guns.lol/f4ceitbro
+2. https://guns.lol/f4ceitbro
 
-https://tryhackme.com/p/SSerega777
+3. https://tryhackme.com/p/SSerega777
 
-https://learn.cylabacademy.org/users/curtbitcoin
+4. https://learn.cylabacademy.org/users/curtbitcoin
 
-https://dev.to/f4c317br0
+5. https://dev.to/f4c317br0
 
 ## Me in icons:
 

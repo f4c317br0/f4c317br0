@@ -35,8 +35,4 @@ https://dev.to/f4c317br0
 
 # Cool widgets
 
-![Моя статистика GitHub](https://vercel.app)
-
-![Серия коммитов](https://herokuapp.com)
-
-![Используемые языки](https://vercel.app)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=f4c317br0&layout=compact&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=f4c317br0&layout=compact&langs_count=6&theme=dark)

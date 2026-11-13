@@ -7,7 +7,7 @@
 
 2nd rank in competitive programming
 
-English - C1 // learning Deutsh
+English - C1 | learning Deutsh
 
 Love cats <3
 
